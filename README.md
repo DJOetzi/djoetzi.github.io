@@ -1,2 +1,5 @@
 ## DJ's cool website for cool people
-# more stuff coming soon!
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://progame03.github.io/davincibot/)
+### more stuff coming soon!
+
+
