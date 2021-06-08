@@ -7,8 +7,9 @@
 
 ### Work in Progress:
  - EVP-Lib (Add-On Library for Edy's Vehicle Physics)
- - S.V.A.G (Semi-realistic Vehicle Automotive Gaming; Vehicle Physics for Unreal)
- - unnamed Character Controller for Unity 
+ - S.V.A.G. for UE (Semi-realistic Vehicle Automotive Gaming)
+ - S.V.A.G. for Unity
+ - DJs Universal Character Controller for Unity
 
 ## Contact me:
 You can get in touch with me via Discord: DJ Ötzi#5474
