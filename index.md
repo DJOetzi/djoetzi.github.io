@@ -1,4 +1,8 @@
 # DJ's cool website for cool people
+
+## Thing of the day:
+I like Kebab
+
 ## My Projects
 ### Done:
  - [DaVinci Discord Bot](https://progame03.github.io/davincibot/)
