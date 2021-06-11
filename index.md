@@ -1,7 +1,7 @@
 # DJ's cool website for cool people
 
 ## Thing of the day:
-I like Kebab
+I like funny names
 
 ## My Projects
 ### Done:
@@ -12,7 +12,7 @@ I like Kebab
 ### Work in Progress:
  - EVP-Lib (Add-On Library for Edy's Vehicle Physics)
  - S.V.A.G. for UE (Semi-realistic Vehicle Automotive Gaming)
- - S.V.A.G. for Unity
+ - Gletscher Vehicle Dynamics for Unity
  - DJs Universal Character Controller for Unity
 
 ## Contact me:
