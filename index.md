@@ -1,7 +1,7 @@
 # DJ's cool website for cool people
 
 ## Thing of the day:
-I like funny names
+even thought I suck at C# it's one of my fav languages
 
 ## My Projects
 ### Done:
@@ -13,11 +13,10 @@ I like funny names
 ### Work in Progress:
  - EVP-Lib (Add-On Library for Edy's Vehicle Physics)
  - S.V.A.G. for UE (Semi-realistic Vehicle Automotive Gaming)
- - Gletscher Vehicle Dynamics for Unity*
  - DJs Universal Character Controller for Unity*
 
 ## Contact me:
 You can get in touch with me via Discord: DJ Ötzi#5474
 
 
-* on hold
+*on hold
