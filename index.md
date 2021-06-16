@@ -1,7 +1,7 @@
 # DJ's cool website for cool people
 
 ## Thing of the day:
-even thought I suck at C# it's one of my fav languages
+I really like working with vehicle dynamics
 
 ## My Projects
 ### Done:
@@ -11,6 +11,7 @@ even thought I suck at C# it's one of my fav languages
  - [UnityCar 3D Tire made for MSC-Modding](https://github.com/Progame03/UnityCar-3D-Tire)
 
 ### Work in Progress:
+ - Super Easy Attachment System for MSC Modding
  - EVP-Lib (Add-On Library for Edy's Vehicle Physics)
  - S.V.A.G. for UE (Semi-realistic Vehicle Automotive Gaming)
  - DJs Universal Character Controller for Unity*
