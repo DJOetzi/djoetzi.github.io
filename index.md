@@ -1,7 +1,7 @@
 # DJ's cool website for cool people
 
 ## Thing of the day:
-I really like working with vehicle dynamics
+[Don't forget to check out the Vehicle Physics I maintain!](https://github.com/Progame03/tork)
 
 ## My Projects
 ### Done:
