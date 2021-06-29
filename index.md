@@ -5,10 +5,13 @@ I really like working with vehicle dynamics
 
 ## My Projects
 ### Done:
- - [DaVinci Discord Bot](https://progame03.github.io/davincibot/)
+ - [DaVinci Discord Bot (currently inactive due to technical failures)](https://progame03.github.io/davincibot/)
  - [Rock-Paper-Scissors Bot](https://github.com/Progame03/RPS-Bot) 
  - [dumb implementation of urbandict command](https://github.com/Progame03/urbandict-implementation-for-dumb-people)
  - [UnityCar 3D Tire made for MSC-Modding](https://github.com/Progame03/UnityCar-3D-Tire)
+ - [portable Toilet MSC-Mod](https://www.nexusmods.com/mysummercar/mods/722)
+ - [Ferndale Deluxe MSC-Mod](https://www.nexusmods.com/mysummercar/mods/762)
+ - [Right Hand Drive Satsuma MSC-Mod (Joke)](https://www.nexusmods.com/mysummercar/mods/782)
 
 ### Work in Progress:
  - fork of [Tork Vehicle Dynamics](https://github.com/Progame03/tork) click [here](https://github.com/adrenak/tork) to get to the original fork 
