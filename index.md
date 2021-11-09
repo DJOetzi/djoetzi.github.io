@@ -1,7 +1,7 @@
 # DJ's cool website for cool people
 
 ## Thing of the day:
-[Check out DPP, the best Discord Library to ever exist!](https://github.com/brainboxdotcc/dpp)
+Stay safe!
 
 ## Technologies
  - Languages:
