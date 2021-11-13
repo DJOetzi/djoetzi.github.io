@@ -45,6 +45,7 @@ Stay safe!
 - skids
 - clickbait sites e.g. "top ten actors called Bob"
 - ads that talk about "this one simple trick"
+- millennials sense of vanity and self importance lol
 
 ## Contact me:
 You can get in touch with me via Discord: DJ Ötzi#5474
