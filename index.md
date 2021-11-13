@@ -43,6 +43,8 @@ Stay safe!
 - cryptocurrency
 - YouTube programming tutorials
 - skids
+- clickbait sites e.g. "top ten actors called Bob"
+- ads that talk about "this one simple trick"
 
 ## Contact me:
 You can get in touch with me via Discord: DJ Ötzi#5474
