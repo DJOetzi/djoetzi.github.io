@@ -11,7 +11,7 @@ Stay safe!
    * Java
    * Lua (was a mistake to learn) 
  - Engines:
-   * Unity (not actively)
+   * Unity
    * Unreal
    * Unigine (semi-actively)
  - Discord Libraries
@@ -22,7 +22,6 @@ Stay safe!
 ## My Projects
 ### Done:
  - [the Beerist Discord Bot](https://top.gg/bot/846722660523180042)
- - [DaVinci Discord Bot (inactive)](#)
  - [Rock-Paper-Scissors Bot](https://github.com/Progame03/RPS-Bot) 
  - [dumb implementation of urbandict command](https://github.com/Progame03/urbandict-implementation-for-dumb-people)
  - [UnityCar 3D Tire made for MSC-Modding](https://github.com/Progame03/UnityCar-3D-Tire)
@@ -35,7 +34,15 @@ Stay safe!
  - Super Easy Attachment System for MSC Modding*
  - EVP-Lib (Add-On Library for Edy's Vehicle Physics)*
  - S.V.A.G. for UE (Semi-realistic Vehicle Automotive Gaming)
- - DJs Universal Character Controller for Unity*
+
+### DJ's list of unnecessary things:
+- JS
+- LUA
+- NFTs
+- that Nikocado Avocado guy
+- cryptocurrency
+- YouTube programming tutorials
+- skids
 
 ## Contact me:
 You can get in touch with me via Discord: DJ Ötzi#5474
