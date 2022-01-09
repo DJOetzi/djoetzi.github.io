@@ -1,7 +1,7 @@
 # DJ's cool website for cool people
 
 ## Thing of the day:
-Stay safe!
+the Beerist is now Open Source! Check it out [here](https://github.com/progame03/beerist-bot)!
 
 ## Technologies
  - Languages:
