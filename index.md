@@ -16,8 +16,7 @@ the Beerist is now Open Source! Check it out [here](https://github.com/progame03
    * Unigine (semi-actively)
  - Discord Libraries
    * [DPP](https://github.com/brainboxdotcc/dpp)
-   * [JDA](https://github.com/DV8FromTheWorld/JDA)
-   * [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus)
+   * [Discord4J](https://github.com/Discord4J/Discord4J)
 
 ## My Projects
 ### Done:
