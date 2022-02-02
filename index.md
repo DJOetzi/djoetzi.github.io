@@ -20,7 +20,7 @@ the Beerist is now Open Source! Check it out [here](https://github.com/progame03
 
 ## My Projects
 ### Done:
- - [the Beerist Discord Bot](https://top.gg/bot/846722660523180042)
+ - [the Beerist Discord Bot](https://progame03.github.io/Beerist-Bot/)
  - [Rock-Paper-Scissors Bot](https://github.com/Progame03/RPS-Bot) 
  - [dumb implementation of urbandict command](https://github.com/Progame03/urbandict-implementation-for-dumb-people)
  - [UnityCar 3D Tire made for MSC-Modding](https://github.com/Progame03/UnityCar-3D-Tire)
